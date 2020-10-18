@@ -1,6 +1,6 @@
 # iosbasicdetailapp
 This is a basic iOS App with a List View + Detail View. 
-UIKIt, storyboards using Swift.
+UIKIt, storyboards using Swift. MVVM.
 ----
 <img src="https://user-images.githubusercontent.com/46975867/96351838-da394280-10db-11eb-92df-4e6c696599ce.png" width="300"><img src="https://user-images.githubusercontent.com/46975867/96351842-e02f2380-10db-11eb-8f4d-6b0ae0cbf87b.png" width="300">
 ----
